@@ -2,7 +2,7 @@
 #Made by SlimxShadyx
 
 #Dice Rolling Simulator
-
+#2EZ4RTZ
 import random
 
 #These variables are used for user input and while loop checking.
