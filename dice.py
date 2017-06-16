@@ -4,7 +4,7 @@
 # Last Modified	: 
 # Version		: 1.0
 
-# Modifications	:
+# Modifications	:DNSIVNOSDBOSNBOSNVOSINVIOSNVSIONSVINVSINVSNSJNSOISNLSNIDNVOINSINVOISDNOIVNSDPOIVNSDOINVSDOINVSIDNVOIDSNVOISNVOIDSNVIOSDNVOIS REDDOT
 
 # Description	: This will randomly select two numbers, like throwing dice, you can change the sides of the dice if you wish
 
